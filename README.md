@@ -1,2 +1,0 @@
-# ReactReduxRedditList
-Created with CodeSandbox
